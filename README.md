@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 😊, I'm Yuemin</h1>
+<h3 align="center">A PhD student at Queen Mary University of London.</h3>
+
+- 🧬 I’m currently working on population genomics.
+
+- 📫 How to reach me: yuemin.li@qmul.ac.uk
+
+<h3 align="left">Connect with me: yuemin.li@qmul.ac.uk</h3>
+<p align="left">
+</p>
